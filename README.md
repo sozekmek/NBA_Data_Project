@@ -1,5 +1,6 @@
 # NBA_Data_Project
 Below 3 questions are inspected with respect to the NBA database provided by Kaggle:
+
     -Does 3 pointers attempted increase by year?
     -Does the influence of centers decreased by years?
     -Did the playstyle of guards changed from passing oriented to scoring oriented?

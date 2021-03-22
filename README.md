@@ -1,3 +1,6 @@
+Medium blog link for further explanations:
+https://sarpozekmekci.medium.com/what-data-tells-about-evolution-of-the-game-of-basketball-at-nba-ab933c0a87a9
+
 # NBA_Data_Project
 Below 3 questions are inspected with respect to the NBA database provided by Kaggle:
 
